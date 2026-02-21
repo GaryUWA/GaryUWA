@@ -20,7 +20,7 @@ Spatial joining and risk metric calculation using Main Roads WA Traffic Digest a
 * **[Service Repo](https://github.com/GaryUWA/wa-road-safety-service):** Backend data processing service.
 * **[Dashboard Repo](https://github.com/GaryUWA/wa-road-safety-dashboard):** Visualising high-risk traffic corridors.
 
-### 🎓 UWA Graduate Research School Automation
+### 🎓 UWA Graduate Research School - Research Training Program
 Software Developer for a student consultant project.
 * **[Project Repo](https://github.com/GaryUWA/CITS3200-Project):** Flask web application developed to automate graduate email workflows.
 
